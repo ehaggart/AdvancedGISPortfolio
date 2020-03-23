@@ -1,2 +1,2 @@
 # AdvancedGISPortfolio
-## My portfolio https://ehaggart.github.io/AdvancedGISPortfolio/
+## My portfolio [GitHub](https://ehaggart.github.io/AdvancedGISPortfolio/)

@@ -12,4 +12,4 @@ I hope having access to additional tools other than just ArcGIS will provide me 
 
 # Portfolio
 
-[Katrina Path Tracker] (https://www.arcgis.com/home/webmap/viewer.html?webmap=8ea59c2038d54ce9aa559bce773cc667)
+[Katrina Path Tracker(https://www.arcgis.com/home/webmap/viewer.html?webmap=8ea59c2038d54ce9aa559bce773cc667)]

@@ -15,3 +15,5 @@ I hope having access to additional tools other than just ArcGIS will provide me 
 [Katrina Path Tracker](KatrinaTracker.md)
 
 [Heathy Ride Dashboard](HealthyRideDashboard.md)
+
+[Healthy Ride Story Map](HealthyRideStoryMaps.md)

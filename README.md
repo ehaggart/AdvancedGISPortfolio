@@ -16,4 +16,6 @@ I hope having access to additional tools other than just ArcGIS will provide me 
 
 [Heathy Ride Dashboard](HealthyRideDashboard.md)
 
+[Dallas Police Beat and Zip Code Relationship](DallasBeatZipCodeRelationship.md)
+
 [Healthy Ride Story Map](HealthyRideStoryMaps.md)
